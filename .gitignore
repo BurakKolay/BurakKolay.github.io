@@ -1,0 +1,5 @@
+# Yalnızca site dosyaları yayınlanır
+*
+!.gitignore
+!index.html
+!styles.css
